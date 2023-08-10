@@ -2,7 +2,7 @@
 the pricing model used for the options is Monte Carlo simulation, which belongs to the class of numerical (non-analytical) models.
 
 * **Numerical Models**
-* Monte Carlo Simulation: Generates random stock price paths and discounted payoffs. Allows flexibility in modeling stochastic processes and payoff functions.
+Monte Carlo Simulation: Generates random stock price paths and discounted payoffs. Allows flexibility in modeling stochastic processes and payoff functions.
 
 # Pricing-strategy-for-European-and-American-Options-through-Monte-Carlo-Simulation
 The code first simulates future price paths for the underlying asset (AAPL stock) using Monte Carlo simulation. It starts with the current price, then randomly samples from historical log returns to generate possible future price movements.
